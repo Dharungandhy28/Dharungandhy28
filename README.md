@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharungandhy28&label=Profile%20views&color=0e75b6&style=flat" alt="dharungandhy28" /> </p>
 
-- 🔭 I’m currently working on **Pizza Delivery Application**
+- 🔭 I’m currently working on **React Application**
 
 - 🌱 I’m currently learning **NodeJs etc..**
 
