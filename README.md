@@ -1,6 +1,6 @@
 ![MasterHead](https://myweb2002.w3spaces.com/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Dharun Gandhi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharungandhy28&label=Profile%20views&color=0e75b6&style=flat" alt="dharungandhy28" /> </p>
