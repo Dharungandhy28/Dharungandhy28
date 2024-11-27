@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://precious-bunny-7f3725.netlify.app/](https://precious-bunny-7f3725.netlify.app/)
 
-- 💬 Ask me about **ReactJs, MERN**
+- 💬 Ask me about **ReactJs, MERN Stack**
 
 - 📫 How to reach me **dharungandhi28@gmail.com**
 
