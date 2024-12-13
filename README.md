@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React Application**
 
-- 🌱 I’m currently learning **FullStack**
+- 🌱 I’m currently learning **Full Stack**
 
 - 👨‍💻 All of my projects are available at [https://precious-bunny-7f3725.netlify.app/](https://precious-bunny-7f3725.netlify.app/)
 
