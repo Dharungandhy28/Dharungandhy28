@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharungandhy28&label=Profile%20views&color=0e75b6&style=flat" alt="dharungandhy28" /> </p>
 
-- 🔭 I’m currently working on **React Application**
+- 🔭 I’m currently working on **MERN Application**
 
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://precious-bunny-7f3725.netlify.app/](https://precious-bunny-7f3725.netlify.app/)
 
-- 💬 Ask me about **ReactJs, MERN Stack**
+- 💬 Ask me about **ReactJS, MERN Stack**
 
 - 📫 How to reach me **dharungandhi28@gmail.com**
 
