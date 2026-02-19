@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharungandhy28&label=Profile%20views&color=0e75b6&style=flat" alt="dharungandhy28" /> </p>
 
-- 🔭 I’m currently working on **Front End Development**
+- 🔭 I’m currently working on **Front End Engineer**
 
 - 🌱 I’m currently learning **MERN Stack**
 
