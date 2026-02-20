@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharungandhy28&label=Profile%20views&color=0e75b6&style=flat" alt="dharungandhy28" /> </p>
 
-- 🔭 I’m currently working on **Front End Engineer**
+- 🔭 I’m currently working on **Full Stack Product**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack | Exploring AI & Web3**
 
 - 👨‍💻 All of my projects are available at [https://precious-bunny-7f3725.netlify.app/](https://precious-bunny-7f3725.netlify.app/)
 
