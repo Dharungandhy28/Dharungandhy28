@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **MERN Stack | Exploring AI & Web3**
 
-- 👨‍💻 All of my projects are available at [https://precious-bunny-7f3725.netlify.app/](https://precious-bunny-7f3725.netlify.app/)
-
 - 💬 Ask me about **ReactJS, MERN Stack**
 
 - 📫 How to reach me **dharungandhi28@gmail.com**
