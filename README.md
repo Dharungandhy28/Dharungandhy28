@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharungandhy28&label=Profile%20views&color=0e75b6&style=flat" alt="dharungandhy28" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Product**
+- 🔭 I’m currently working on **Full Stack AI Product**
 
 - 🌱 I’m currently learning **MERN Stack | Exploring AI & Web3**
 
