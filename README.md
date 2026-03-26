@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full Stack Engineer**
 
-- 🌱 I’m currently learning **MERN Stack | Exploring AI**
+- 🌱 I’m currently learning **MERN Stack | Exploring AI & Web 3**
 
 - 💬 Ask me about **ReactJS, MERN Stack**
 
