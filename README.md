@@ -14,8 +14,6 @@
 - 📫 How to reach me **dharungandhi28@gmail.com**
 
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--<a href="https://linkedin.com/in/dharun-gandhi-m-4047221b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharun-gandhi-m-4047221b1" height="30" width="40" /></a>-->
 <!-- <a href="https://www.hackerrank.com/@dharungandhi_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@dharungandhi_1" height="30" width="40" /></a> -->
