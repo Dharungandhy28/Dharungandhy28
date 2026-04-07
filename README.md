@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Saas Product**
 
-- 🌱 I’m currently learning **MERN Stack | Exploring AI**
+- 🌱 I’m currently learning **MERN Stack | Exploring AI & Web3**
 
 - 💬 Ask me about **ReactJS, MERN Stack**
 
