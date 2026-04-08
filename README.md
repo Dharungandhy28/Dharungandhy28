@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack | Exploring AI & Web3**
 
-- 💬 Ask me about **ReactJS, MERN Stack**
+- 💬 Ask me about **Full Stack**
 
 - 📫 How to reach me **dharungandhi28@gmail.com**
 
